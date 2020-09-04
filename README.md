@@ -1,7 +1,7 @@
 # Car-Accident-Severity
 1. Introduction/Business Problem
 
-The idea of this study is to be able to predict the car accident severity based on the types of injuries, types of damages and etc. And based on the accident severity, the program may advise other drivers to avoid the street where the accident occurred to avoid any delays. 
+The idea of this study is to be able to predict the car accident severity based on the types of injuries, types of damages and etc. and based on the accident severity, the program may advise other drivers to avoid the street where the accident occurred to avoid any delays. 
 
 2. Downloading and Prepping Data
 
